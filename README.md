@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TheIllustrator1972
 - 👀 I’m interested in Software development, Illustrations, 3D Art
-- I’m currently pursuing my BTech in Electronics and Communication engineering from SVNIT, Surat
 ---
 ### Languages and tools
 <img align = "left" width = "30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
