@@ -16,6 +16,3 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheIllustrator1972.TheIllustrator1972)
