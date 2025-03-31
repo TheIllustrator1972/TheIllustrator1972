@@ -1,4 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-nileshsk1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshsk1/)](https://www.linkedin.com/in/nileshsk1/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshsk1/)](https://www.linkedin.com/in/nileshsk1/)
+[![Badge](https://img.shields.io/badge/-portfolio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://nileshkamble.co.in)](https://nileshkamble.co.in)
 [![Gmail Badge](https://img.shields.io/badge/-nileshkamble@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nileshkamble54321gmail.com)](mailto:nileshkamble54321gmail.com)
 
 ## ⚡ Technologies
