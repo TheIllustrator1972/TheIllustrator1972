@@ -7,8 +7,10 @@
   <a href="https://nileshkamble.co.in"><img src="https://img.shields.io/badge/Portfolio-nileshkamble.co.in-000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nileshsk1/"><img src="https://img.shields.io/badge/LinkedIn-nileshsk1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nileshkamble54321@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://apps.apple.com/developer/YOUR-DEV-ID"><img src="https://img.shields.io/badge/App%20Store-8%20Apps-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"/></a>
+  <a href="https://apps.apple.com/us/developer/nilesh-kamble/id1790227862"><img src="https://img.shields.io/badge/App%20Store-8%20Apps-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"/></a>
 </p>
+
+
 
 ---
 
@@ -31,16 +33,18 @@
 
 ### 📱 Indie apps
 
-| App | What it does | Platform |
-|---|---|---|
-| <!-- icon --> [**Versus Sudoku**](APP_STORE_LINK) | Real-time 1v1 Sudoku over a shared link | iOS |
-| [**Ball Balance: Tilt Climb**](APP_STORE_LINK) | Two-thumb tilt arcade: climb and dodge lasers | iOS |
-| [**Word Woven**](APP_STORE_LINK) | Swipe letter columns to spell hidden words | iOS |
-| [**Isometria**](APP_STORE_LINK) | Create isometric grid art and export as PNG | iOS |
-| [**UtilityBar**](APP_STORE_LINK) | Menu bar todos, clipboard & essentials | macOS |
-| [**Word Mean +**](APP_STORE_LINK) | Instant definitions, synonyms & examples | iOS |
-| [**Set Square Classic**](APP_STORE_LINK) | Place 1–9 so each cage hits its target | iOS |
-| [**Suko Classic**](APP_STORE_LINK) | Minimalist 3×3 number puzzle with sum clues | iOS |
+> 8 apps shipped solo on the [App Store](https://apps.apple.com/us/developer/nilesh-kamble/id1790227862), built with Swift & SwiftUI
+
+| | App | What it does | Platform |
+|:-:|---|---|:-:|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/a7/94/8fa7941d-9898-5c4d-5bdd-05c213b3a35f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" width="40"/> | [**Versus Sudoku**](https://apps.apple.com/us/app/versus-sudoku/id6746213774) | Real-time 1v1 Sudoku over a shared link | iOS |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/b3/53/a3b353ba-04bb-a110-7aa6-04e3c31ff691/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg" width="40"/> | [**Ball Balance: Tilt Climb**](https://apps.apple.com/us/app/ball-balance-tilt-climb/id6807118225) | Two-thumb tilt arcade: climb and dodge lasers | iOS |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/96/08/629608ed-f230-8c92-7414-6dd73c630a85/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" width="40"/> | [**Word Puzzle: Letter Columns**](https://apps.apple.com/us/app/word-puzzle-letter-columns/id6765878463) | Swipe letter columns to spell hidden words | iOS |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/26/ca/1226ca96-7700-f154-2030-92ca0a9fcbec/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg" width="40"/> | [**Isometria**](https://apps.apple.com/us/app/isometria/id6740491214) | Create isometric grid art and export as PNG | iOS |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/7d/81/3a7d81ba-3f72-edbd-3fa7-217d529b7b18/AppIcon-0-0-85-220-0-5-0-2x.png/100x100bb.png" width="40"/> | [**UtilityBar**](https://apps.apple.com/us/app/utilitybar/id6747776894) | Menu bar todos, clipboard & essentials | macOS |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/cf/f2/40cff24e-d06a-c9ea-67c9-c2ab50c52d25/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" width="40"/> | [**Word Mean +**](https://apps.apple.com/us/app/word-mean/id6744270167) | Instant definitions, synonyms & examples | iOS |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/d0/bf48d0f3-0d66-bd92-42cc-8d323dceca5f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" width="40"/> | [**Set Square Classic**](https://apps.apple.com/us/app/set-square-classic/id6747139517) | Place 1–9 so each cage hits its target | iOS |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/41/44/534144fa-4af9-d0f5-0642-d9f03963306d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" width="40"/> | [**Suko Classic**](https://apps.apple.com/us/app/suko-classic/id6747990866) | Minimalist 3×3 number puzzle with sum clues | iOS |
 
 ### 🛠️ Tech I work with
 
